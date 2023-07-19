@@ -1,5 +1,5 @@
-# Máscaras de CPF e CNPJ em PL/SQL
-Este repositório contém implementações em PL/SQL de máscaras para formatar números de CPF (Cadastro de Pessoas Físicas) e CNPJ (Cadastro Nacional da Pessoa Jurídica).
+# Máscaras de CPF e CNPJ em T/SQL
+Este repositório contém implementações em T/SQL de máscaras para formatar números de CPF (Cadastro de Pessoas Físicas) e CNPJ (Cadastro Nacional da Pessoa Jurídica).
 
 ## Máscara de CPF
 A máscara de CPF irá formatar o número em um formato legível, adicionando pontos e traço. O formato final será: xxx.xxx.xxx-xx.
@@ -8,7 +8,7 @@ A máscara de CPF irá formatar o número em um formato legível, adicionando po
 A máscara de CNPJ também irá formatar o número em um formato legível, adicionando pontos, barra e traço. O formato final será: xx.xxx.xxx/xxxx-xx.
 
 ## Como usar
-Certifique-se de que o PL/SQL esteja instalado em seu banco de dados.
+Certifique-se de que o T/SQL esteja instalado em seu banco de dados.
 
 ### Clone este repositório em sua máquina local:
 
